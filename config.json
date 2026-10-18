@@ -1,0 +1,12 @@
+{
+  "input": "C:\\Users\\qq126\\AppData\\Roaming\\com.example\\piliplus\\download",
+  "output": "G:\\BaiduNetdiskDownload\\PiliPlusDownload\\output",
+  "ffmpeg": "",
+  "embed_cover": true,
+  "sidecar_cover": false,
+  "faststart": false,
+  "open_when_done": false,
+  "delete_countdown": true,
+  "sort": "时间",
+  "filter": "全部"
+}
